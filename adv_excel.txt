@@ -1,1 +1,6 @@
-
+=======================
+Quick access toolbar 
+use excel notes - review tab
+use data and time in excel
+work with formulas - $
+boarders / number formats/ conditional formats / tables and slices
